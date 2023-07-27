@@ -6,7 +6,7 @@
 - [x] Gets bitches 
 - [x] Super good-looking
 
-Most repositories I have are <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> challenges.
+Most repositories I have are <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> challenges - <i>I also have my own projects too though</i>.
 <br><br>These are front-end HTML, CSS, and Javascript design challenges.
 <br><br>
 <img src="https://media3.giphy.com/media/kaBU6pgv0OsPHz2yxy/200w.gif?cid=82a1493bgedkzcabsylfdmd4wqunoyflrmo47kadj7n4g24i&rid=200w.gif&ct=g">
